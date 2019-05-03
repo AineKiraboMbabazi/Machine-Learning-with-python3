@@ -1,0 +1,7 @@
+sqlalchemy
+xlrd
+pandas
+matplotlib
+scikit-learn
+imutils
+python3-tk
